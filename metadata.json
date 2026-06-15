@@ -1,0 +1,10 @@
+{
+  "name": "LifeLink AI",
+  "description": "Futuristic AI-powered emergency response and public safety platform with blood-donor network, live ambulance tracking, real-time disaster alerts, and 24/7 intelligent medical assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
